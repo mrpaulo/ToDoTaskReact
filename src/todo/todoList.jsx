@@ -36,7 +36,6 @@ export default (props) =>  {
             <tbody>
                 {renderRows()}
             </tbody>
-
         </table>
     )
 }
